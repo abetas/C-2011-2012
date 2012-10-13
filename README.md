@@ -1,7 +1,7 @@
 Projet de fin d'année en C (2011-2012)
 ===========
 ----
-Antoine BETAS, 1TM1
+Antoine BETAS, Cédric BREMER, Alexis GEORGES, 1TM1
 
 Technologie de l'informatique
 
