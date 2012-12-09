@@ -1,15 +1,34 @@
-Projet de fin d'année en C (2011-2012)
-===========
-----
-Antoine BETAS, Cédric BREMER, Alexis GEORGES, 1TM1
+﻿# Projet de C 2011-2012 #
+----------------
 
-Technologie de l'informatique
+* Réalisé dans le cadre du cours de Langage de Programmation
+* 1e Technologie de l'informatique
+* Ephec Louvain-La-Neuve
 
-Ephec Louvain-La-Neuve
+## Auteurs ##
 
-Projet en C de l'année 2011 - 2012 dans le cadre du cours de programmation4
+* [Antoine BETAS](https://github.com/abetas)
+* Cédric BREMER
+* Alexis GEORGES
 
-----
-Il s'agit d'un projet réalisé en C dans le cadre du cours de programmation en 1e informatique en baccalauréat ! Libre à vous d'utiliser ce que vous voulez dans ce code mais je doute que cela soit très utile.
+## Contenu du répertoire ##
 
-En revanche, certaine fonctions peuvent s'avérer intéressante, surtout dans la bibliothèque des fonctions "outils". Ces dernières ont été crées justement pour être utilisées dans différentes partie du programme et peuvent donc sans trop de problèmes être portées dans un autre code. Il existe pas exemple une fonction qui permet de transformer un string en float en prenant compte du point décimal et de la virgule ou un autre qui permet de faire la même chose qu'un gets sans lire le retour à la ligne (ENTER pour les incultes ^^) final, etc
+* Un dossier Documents reprenant l'ensemble des médias nécessaires à la réalisation du rapport : pdf, word et powerpoint
+* Un dossier Code contenant le code source ainsi que les fichiers binaires d'exemple. Les fichiers se trouvant dans ce dossier ne sont pas initialisés
+* Un dossier Applications qui contient les exécutables du programmes ainsi que les fichiers binaires nécessaires au bon fonctionnement des applications
+
+* Pour cloner le repertoire `git clone git://github.com/abetas/C-2011-2012.git`
+* Pour télécharger le zip `https://github.com/abetas/C-2011-2012/archive/master.zip`
+
+## Explication du projet ##
+
+Le but du programme était de gérer le fonctionnement d'une école supérieure. Plus précisement la gestion des étudiants. Bien que peu réalisé, le projet utilise une série de fonction qu'offre le C :
+
+* Gestion des fichiers textes et binaires
+* Allocation dynamique de mémoire
+* Création de bibliothèques de fonctions
+* ...
+
+## Utilisation du code ##
+
+Etant donné que ce projet se trouve sur Github, libre à vous de cloner ce code sur votre machine et d'en faire ce que vous voulez. Sachez seulement qu'il est très facile de repérer le plagiat et pas très intelligent de programmer de la sorte. En revanche, certaines fonctions peuvent vous être utiles afin de ne pas avoir à les réécrire. Veillez toujours à indiquer la source de votre code.
