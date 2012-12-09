@@ -13,9 +13,9 @@
 
 ## Contenu du répertoire ##
 
-* Un dossier Documents reprenant l'ensemble des médias nécessaires à la réalisation du rapport : pdf, word et powerpoint
-* Un dossier Code contenant le code source ainsi que les fichiers binaires d'exemple. Les fichiers se trouvant dans ce dossier ne sont pas initialisés
-* Un dossier Applications qui contient les exécutables du programmes ainsi que les fichiers binaires nécessaires au bon fonctionnement des applications
+* Un dossier [Documents](https://github.com/abetas/C-2011-2012/tree/master/Documents) reprenant l'ensemble des médias nécessaires à la réalisation du rapport : pdf, word et powerpoint
+* Un dossier [Code](https://github.com/abetas/C-2011-2012/tree/master/Code) contenant le code source ainsi que les fichiers binaires d'exemple. Les fichiers se trouvant dans ce dossier ne sont pas initialisés
+* Un dossier [Applications](https://github.com/abetas/C-2011-2012/tree/master/Applications) qui contient les exécutables du programmes ainsi que les fichiers binaires nécessaires au bon fonctionnement des applications
 
 * Pour cloner le repertoire `git clone git://github.com/abetas/C-2011-2012.git`
 * Pour télécharger le zip `https://github.com/abetas/C-2011-2012/archive/master.zip`
