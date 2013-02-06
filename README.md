@@ -8,7 +8,6 @@
 ## Auteurs ##
 
 * [Antoine BETAS](https://github.com/abetas)
-* Cédric BREMER
 * Alexis GEORGES
 
 ## Contenu du répertoire ##
